@@ -1,5 +1,3 @@
-
-
 # binaryx.pro.tools自动打工脚本
 binaryx.pro 脚本工具
 主要是解决频繁让小可爱工作点击授权的琐事，完全自动化解决这个问题，支持windows和macos
@@ -14,7 +12,7 @@ binaryx.pro 脚本工具
 复制代码：[bnx_work.js](https://github.com/coin123io/binaryx.pro.tools/blob/main/bnx_work.js "bnx_work.js")
 
 
-![](https://cdn.iosre.com/uploads/default/original/2X/4/48591a9e9a142c5ce22df066ce16439ed5620c0e.jpeg)
+![](https://github.com/coin123io/binaryx.pro.tools/blob/main/image/48591a9e9a142c5ce22df066ce16439ed5620c0e.jpeg?raw=true)
 按键：回车即可运行
 
 # #第三步配置自动鼠标点击工具：
@@ -56,11 +54,9 @@ MAC OS下载：rapidclick.zip
 	
 	然后重新运行即可
 ```
+ 
 
 
 
-
-
-
-#捐献
-
+#####如果工具对您有用，请我喝杯咖啡，谢谢啦
+![](https://github.com/coin123io/binaryx.pro.tools/blob/main/image/Snipaste_2021-11-24_15-18-13.png?raw=true)
