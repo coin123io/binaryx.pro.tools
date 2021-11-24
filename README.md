@@ -9,7 +9,7 @@ binaryx.pro 脚本工具
 
 # #第二步配置脚本：
 在当前页面右键：
-[![](https://cdn.iosre.com/uploads/default/original/2X/a/a75de11c47f9e40d456fc0b0a9ec0e3a9ce9513e.jpeg)]()
+[![](https://github.com/coin123io/binaryx.pro.tools/blob/main/image/a75de11c47f9e40d456fc0b0a9ec0e3a9ce9513e.jpeg?raw=true)]()
 
 复制代码：[bnx_work.js](https://github.com/coin123io/binaryx.pro.tools/blob/main/bnx_work.js "bnx_work.js")
 
@@ -18,14 +18,16 @@ binaryx.pro 脚本工具
 按键：回车即可运行
 
 # #第三步配置自动鼠标点击工具：
-![](https://cdn.iosre.com/uploads/default/original/2X/d/de5ba2884360b997917831efee21840d96266cfd.jpeg)
+
 
 WINDOWS下载：https://zhuanlan.zhihu.com/p/25967941
 
+
 MAC OS下载：rapidclick.zip
+![](https://github.com/coin123io/binaryx.pro.tools/blob/main/image/de5ba2884360b997917831efee21840d96266cfd.jpeg?raw=true)
 
 这里频率设置为1-2都可以，表示没秒点击多少次，然后点击“Start”即可运行，鼠标放在Math或MetaMask 提示授权的位置。
-![](https://cdn.iosre.com/uploads/default/original/2X/9/95945a03435a2f8345200f26d8acf7da3d409600.png)
+![](https://github.com/coin123io/binaryx.pro.tools/blob/main/image/95945a03435a2f8345200f26d8acf7da3d409600.png?raw=true)
 
 
 # #第四步：
@@ -60,7 +62,5 @@ MAC OS下载：rapidclick.zip
 
 
 
+#捐献
 
-
-
- 
