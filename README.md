@@ -36,25 +36,28 @@ MAC OS下载：rapidclick.zip
 
 ####*可能遇到的问题*
 - 如遇：「RapidClick.app已损坏，打不开。你应该将它移到废纸篓」!!!
-- 解决：```
-安装xcode
-    安装xCode，你可以在App Store中下载安装，并且至少运行一次。
-	
-    安装Command Line Tools 工具
-	
-    打开终端工具输入如下命令：
-	
-    xcode-select --install
-	
-    弹出后选择继续安装。
-	
+- 解决：
+```
+
+安装xCode，你可以在App Store中下载安装，并且至少运行一次。
+
+安装Command Line Tools 工具
+
+打开终端工具输入如下命令：
+
+xcode-select --install
+
+弹出后选择继续安装。
+
 打开终端工具输入并执行如下命令：
 
 codesign --force --deep --sign - /Applications/RapidClick.app
 
 然后重新运行即可
+
 ```
 
+------------
 
 #####如果工具对您有用，请我喝杯咖啡，谢谢啦
 ![](https://github.com/coin123io/binaryx.pro.tools/blob/main/image/Snipaste_2021-11-24_15-18-13.png?raw=true)
