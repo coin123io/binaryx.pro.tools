@@ -1,6 +1,7 @@
 # binaryx.pro.tools自动打工脚本
 binaryx.pro 脚本工具
 主要是解决频繁让小可爱工作点击授权的琐事，完全自动化解决这个问题，支持windows和macos
+YouTube 教程地址：https://www.youtube.com/watch?v=2p8qn7oKhak
 
 # #第一步下载浏览器：
 下载 [Chrome](https://www.google.com/intl/zh-CN/chrome/ "Chrome")，并进入https://www.binaryx.pro/#/game/work?workType=partTime 这个界面,BSC钱包我暂时用的Math钱包（麦子钱包）或者 MetaMask .
