@@ -1,17 +1,62 @@
+
+
 # binaryx.pro.tools
 binaryx.pro 脚本工具
 主要是解决频繁让小可爱工作点击授权的琐事，完全自动化解决这个问题，支持windows和macos
 
-#第一步：
-下载 ![Chrome][https://www.google.com/intl/zh-CN/chrome/] ，并进入https://www.binaryx.pro/#/game/work?workType=partTime 这个界面
+#第一步下载浏览器：
+下载 [Chrome](https://www.google.com/intl/zh-CN/chrome/ "Chrome")，并进入https://www.binaryx.pro/#/game/work?workType=partTime 这个界面,BSC钱包我暂时用的Math钱包（麦子钱包）或者 MetaMask .
+
+#第二步配置脚本：
+在当前页面右键：
+[![](https://cdn.iosre.com/uploads/default/original/2X/a/a75de11c47f9e40d456fc0b0a9ec0e3a9ce9513e.jpeg)]()
+
+复制代码：[bnx_work.js](https://github.com/coin123io/binaryx.pro.tools/blob/main/bnx_work.js "bnx_work.js")
 
 
-#第二步：
+![](https://cdn.iosre.com/uploads/default/original/2X/4/48591a9e9a142c5ce22df066ce16439ed5620c0e.jpeg)
+按键：回车即可运行
 
+#第三步配置自动鼠标点击工具：
+![](https://cdn.iosre.com/uploads/default/original/2X/d/de5ba2884360b997917831efee21840d96266cfd.jpeg)
 
-
-#第三步：
-
+这里频率设置为1-2都可以，表示没秒点击多少次，然后点击“Start”即可运行，鼠标放在Math或MetaMask 提示授权的位置。
+![](https://cdn.iosre.com/uploads/default/original/2X/9/95945a03435a2f8345200f26d8acf7da3d409600.png)
 
 
 #第四步：
+
+如果遇到运行中中断或网络不佳的情况下可以尝试刷新界面，然后重新输入脚本运行，重复第二步
+
+
+
+###*可能遇到的问题*
+- 如遇：「RapidClick.app已损坏，打不开。你应该将它移到废纸篓」!!!
+- 解决：```css
+安装xcode
+    安装xCode，你可以在App Store中下载安装，并且至少运行一次。
+	
+    安装Command Line Tools 工具
+	
+    打开终端工具输入如下命令：
+	
+    xcode-select --install
+	
+    弹出后选择继续安装。
+	
+	打开终端工具输入并执行如下命令：
+	
+	codesign --force --deep --sign - /Applications/RapidClick.app
+	
+	然后重新运行即可
+```
+
+
+
+
+
+
+
+
+
+ 
